@@ -24,7 +24,7 @@ const Projects = () => {
     {
       id: 2,
       icon: <FaCamera className="commonIcons" />,
-      heading: "Photography",
+      heading: "E-commerce Website",
       text:
         "Lorem Ipsum is simply dummy text of the printing typesetting\
         industry. simply dummy",
@@ -32,7 +32,7 @@ const Projects = () => {
     {
       id: 3,
       icon: <FaCircleNotch className="commonIcons" />,
-      heading: "Web Desing",
+      heading: "Software Developement",
       text:
         "Lorem Ipsum is simply dummy text of the printing typesetting\
         industry. simply dummy",
