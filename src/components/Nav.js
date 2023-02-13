@@ -8,7 +8,6 @@ const Nav = () => {
         <div className="navbar__container">
           <ul className="navbar__left">
             <div className="navbar__left-logo">
-              {/* <img src="" alt="logo" /> */}
               <h1 className="mylogo">SUPRI.YA</h1>
             </div>
           </ul>
